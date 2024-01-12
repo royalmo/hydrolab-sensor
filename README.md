@@ -1,4 +1,4 @@
-# Hyrolab Sensor
+# Hydrolab Sensor
 
 The hydrolab-compatible LoRaWAN sensor. This repository contains the
 code needed to flash into the sensor the HydroLab-protocol-compatible code.
