@@ -43,8 +43,8 @@ successfully.
 > its features (that weren't useful for our project) in order to light things
 > up.
 > 
-> That library needs also to be configured with the specific region (and this)
-> needs to be done in the library files too.
+> That library needs also to be configured with the specific region (EU in our
+> case) and this needs to be done in the library files too.
 > 
 > The other libraries can be manually downloaded from the Arduino official UI as
 > they haven't been modified, but for the sake of simplicity and ease of
